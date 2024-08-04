@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atulscript
+- 👋 Hi, I’m Atul Kumar (@Atulscript)
 - 👀 I’m interested in Javascript & Python
 - 🌱 I’m currently learning Basic 
 <!---
